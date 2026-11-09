@@ -1,0 +1,11 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class FirstProgram {
+   public FirstProgram() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.println("Welcome to COS 201!");
+      System.out.println("I am learning computer programming.");
+      System.out.println("Programming begins with problem-solving.");
+   }
+}
